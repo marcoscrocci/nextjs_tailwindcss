@@ -1,0 +1,18 @@
+.card {
+    @apply flex flex-col justify-center items-center;
+    @apply bg-gradient-to-r from-zinc-900 to-zinc-800 text-white;
+    @apply border border-zinc-700 rounded-lg;
+    @apply p-5 text-xl;
+
+    h1 {
+        @apply text-2xl font-black text-zinc-600 mb-5;
+    }
+
+    div:nth-child(2) {
+        @apply bg-red-700;
+    }
+}
+
+.title-big {
+    @apply text-5xl font-black;
+}

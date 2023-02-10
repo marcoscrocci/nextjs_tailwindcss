@@ -1,0 +1,3 @@
+.bg-default {
+    @apply bg-gradient-to-r from-zinc-900 to-black;
+}
