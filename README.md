@@ -37,18 +37,17 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 
-Vídeo: <br />
+## Vídeo: <br />
 https://www.youtube.com/watch?v=wttGg7GU0rI
 
-TailwindCSS:<br />
+## TailwindCSS:<br />
 https://tailwindcss.com/docs/installation/framework-guides
 https://tailwindcss.com/docs/guides/nextjs
 
-Criar o projeto:
-npx create-next-app@latest nextjs_tailwindcss
+## Criar o projeto:<br />
+npx create-next-app@latest nextjs_tailwindcss<br />
 cd nextjs_tailwindcss
 
-Instalar as dependências do TailwindCSS:
-npm install -D tailwindcss postcss autoprefixer
+## Instalar as dependências do TailwindCSS:<br />
+npm install -D tailwindcss postcss autoprefixer<br />
 npx tailwindcss init -p
-
